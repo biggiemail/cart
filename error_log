@@ -1,0 +1,39 @@
+[17-Oct-2021 15:51:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/biggiemail/chiubit.ro/dbcontroller.php on line 14
+[17-Oct-2021 15:51:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 19
+[17-Oct-2021 15:51:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 20
+[17-Oct-2021 15:51:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/biggiemail/chiubit.ro/dbcontroller.php on line 14
+[17-Oct-2021 15:51:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 19
+[17-Oct-2021 15:51:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 20
+[17-Oct-2021 15:51:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/biggiemail/chiubit.ro/dbcontroller.php on line 14
+[17-Oct-2021 15:51:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 19
+[17-Oct-2021 15:51:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 20
+[17-Oct-2021 15:54:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/biggiemail/chiubit.ro/dbcontroller.php on line 14
+[17-Oct-2021 15:54:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 19
+[17-Oct-2021 15:54:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 20
+[17-Oct-2021 15:54:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/biggiemail/chiubit.ro/dbcontroller.php on line 14
+[17-Oct-2021 15:54:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 19
+[17-Oct-2021 15:54:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 20
+[17-Oct-2021 15:54:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/biggiemail/chiubit.ro/dbcontroller.php on line 14
+[17-Oct-2021 15:54:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 19
+[17-Oct-2021 15:54:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 20
+[17-Oct-2021 15:55:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/biggiemail/chiubit.ro/dbcontroller.php on line 14
+[17-Oct-2021 15:55:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 19
+[17-Oct-2021 15:55:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/biggiemail/chiubit.ro/dbcontroller.php on line 20
+[17-Oct-2021 16:43:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/biggiemail/chiubit.ro/index.php on line 93
+[17-Oct-2021 16:44:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/biggiemail/chiubit.ro/index.php on line 93
+[17-Oct-2021 16:48:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/biggiemail/chiubit.ro/index.php on line 93
+[17-Oct-2021 16:53:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/biggiemail/chiubit.ro/index.php on line 90
+[17-Oct-2021 16:54:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/biggiemail/chiubit.ro/index.php on line 90
+[17-Oct-2021 16:54:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/biggiemail/chiubit.ro/index.php on line 90
+[17-Oct-2021 16:54:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/biggiemail/chiubit.ro/index.php on line 90
+[17-Oct-2021 16:54:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/biggiemail/chiubit.ro/index.php on line 90
+[17-Oct-2021 16:55:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/biggiemail/chiubit.ro/index.php on line 88
+[17-Oct-2021 16:55:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/biggiemail/chiubit.ro/index.php on line 91
+[17-Oct-2021 16:58:17 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/biggiemail/chiubit.ro/index.php on line 99
+[17-Oct-2021 16:58:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/biggiemail/chiubit.ro/index.php on line 99
+[17-Oct-2021 17:00:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/biggiemail/chiubit.ro/index.php on line 114
+[17-Oct-2021 17:02:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/biggiemail/chiubit.ro/index.php on line 114
+[17-Oct-2021 17:04:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/biggiemail/chiubit.ro/index.php on line 92
+[17-Oct-2021 17:08:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ':' in /home/biggiemail/chiubit.ro/index.php on line 88
+[17-Oct-2021 17:08:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/biggiemail/chiubit.ro/index.php on line 110
+[17-Oct-2021 17:09:20 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ':' in /home/biggiemail/chiubit.ro/index.php on line 97
